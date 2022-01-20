@@ -1,2 +1,1 @@
-# odin-recipes
-Odin Project Recipes
+Demonstration of a basic HTML project
